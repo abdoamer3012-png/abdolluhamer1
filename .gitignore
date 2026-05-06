@@ -1,0 +1,17 @@
+.DS_Store
+/node_modules/
+.env
+.env.local
+.env.*.local
+*.log
+dev-server.log
+dev-server.err.log
+set-db-password.bat
+set-db-password.ps1
+
+# React Router
+/.react-router/
+/build/
+
+# Test/cache output
+/.vitest/

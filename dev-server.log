@@ -1,0 +1,279 @@
+
+> dev
+> react-router dev --host 127.0.0.1
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m4000[22m/[39m
+[Hono] Registering POST /auth/confirm-supabase-email
+[Hono] Registering POST /auth/request-password-reset
+[Hono] Registering GET /auth/expo-web-success
+[Hono] Registering POST /auth/reset-password
+[Hono] Registering DELETE /forum/comments/:id
+[Hono] Registering GET /quizzes/:lessonId
+[Hono] Registering POST /quizzes/:lessonId
+[Hono] Registering DELETE /quizzes/:lessonId
+[Hono] Registering POST /auth/verify-email
+[Hono] Registering POST /auth/register
+[Hono] Registering DELETE /sections/:id
+[Hono] Registering POST /ai-assistant
+[Hono] Registering GET /lessons/:id
+[Hono] Registering PUT /lessons/:id
+[Hono] Registering DELETE /lessons/:id
+[Hono] Registering POST /users/verify
+[Hono] Registering POST /users/grade
+[Hono] Registering POST /auth/login
+[Hono] Registering GET /auth/token
+[Hono] Registering POST /forum/init
+[Hono] Registering GET /forum/:id
+[Hono] Registering POST /forum/:id
+[Hono] Registering DELETE /forum/:id
+[Hono] Registering GET /honor-roll
+[Hono] Registering DELETE /users/:id
+[Hono] Registering GET /advanced
+[Hono] Registering POST /advanced
+[Hono] Registering DELETE /advanced
+[Hono] Registering GET /progress
+[Hono] Registering POST /progress
+[Hono] Registering GET /sections
+[Hono] Registering POST /sections
+[Hono] Registering GET /settings
+[Hono] Registering POST /settings
+[Hono] Registering GET /students
+[Hono] Registering GET /lessons
+[Hono] Registering POST /lessons
+[Hono] Registering POST /upload
+[Hono] Registering GET /forum
+[Hono] Registering POST /forum
+[Hono] Registering DELETE /forum
+[Hono] Registering GET /users
+[Hono] Registering POST /users
+🚧 Dev server started
+[2m10:57:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m10:57:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m10:57:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m10:57:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m10:57:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css, /src/app/admin/page.jsx?noLayout.jsx[22m
+[2m10:57:38 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/admin/page.jsx[22m
+[2m10:57:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m10:57:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m10:57:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m10:57:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m10:57:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css, /src/app/admin/page.jsx?noLayout.jsx[22m
+[2m10:57:57 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/admin/page.jsx[22m
+🚧 Dev server started
+[2m11:16:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/DELL/Desktop/anything/apps/web/src/app/api/sections/route.js[22m
+[2m11:16:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/DELL/Desktop/anything/apps/web/src/app/api/sections/route.js[22m
+[2m11:16:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/sections/route.js[22m
+[2m11:16:00 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/api/sections/route.js[22m
+[2m11:16:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/DELL/Desktop/anything/apps/web/src/app/api/lessons/route.js[22m
+[2m11:16:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/DELL/Desktop/anything/apps/web/src/app/api/lessons/route.js[22m
+[2m11:16:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/lessons/route.js[22m
+[2m11:16:00 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/api/lessons/route.js[22m
+[2m11:16:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/DELL/Desktop/anything/apps/web/src/app/api/lessons/[id]/route.js[22m
+[2m11:16:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/DELL/Desktop/anything/apps/web/src/app/api/lessons/[id]/route.js[22m
+[2m11:16:00 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/lessons/[id]/route.js[22m
+[2m11:16:00 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/api/lessons/[id]/route.js[22m
+[Hono] Registering POST /auth/confirm-supabase-email
+[Hono] Registering POST /auth/request-password-reset
+[Hono] Registering GET /auth/expo-web-success
+[Hono] Registering POST /auth/reset-password
+[Hono] Registering DELETE /forum/comments/:id
+[Hono] Registering GET /quizzes/:lessonId
+[Hono] Registering POST /quizzes/:lessonId
+[Hono] Registering DELETE /quizzes/:lessonId
+[Hono] Registering POST /auth/verify-email
+[Hono] Registering POST /auth/register
+[Hono] Registering DELETE /sections/:id
+[Hono] Registering POST /ai-assistant
+[Hono] Registering GET /lessons/:id
+[Hono] Registering PUT /lessons/:id
+[Hono] Registering DELETE /lessons/:id
+[Hono] Registering POST /users/verify
+[Hono] Registering POST /users/grade
+[Hono] Registering POST /auth/login
+[Hono] Registering GET /auth/token
+[Hono] Registering POST /forum/init
+[Hono] Registering GET /forum/:id
+[Hono] Registering POST /forum/:id
+[Hono] Registering DELETE /forum/:id
+[Hono] Registering GET /honor-roll
+[Hono] Registering DELETE /users/:id
+[Hono] Registering GET /advanced
+[Hono] Registering POST /advanced
+[Hono] Registering DELETE /advanced
+[Hono] Registering GET /progress
+[Hono] Registering POST /progress
+[Hono] Registering GET /sections
+[Hono] Registering POST /sections
+[Hono] Registering GET /settings
+[Hono] Registering POST /settings
+[Hono] Registering GET /students
+[Hono] Registering GET /lessons
+[Hono] Registering POST /lessons
+[Hono] Registering POST /upload
+[Hono] Registering GET /forum
+[Hono] Registering POST /forum
+[Hono] Registering DELETE /forum
+[Hono] Registering GET /users
+[Hono] Registering POST /users
+🚧 Dev server started
+[2m11:16:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/DELL/Desktop/anything/apps/web/src/app/api/utils/sql.js[22m
+[2m11:16:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/DELL/Desktop/anything/apps/web/src/app/api/utils/sql.js[22m
+[2m11:16:08 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/utils/sql.js[22m
+[2m11:16:08 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/api/utils/sql.js[22m
+[Hono] Registering POST /auth/confirm-supabase-email
+[Hono] Registering POST /auth/request-password-reset
+[Hono] Registering GET /auth/expo-web-success
+[Hono] Registering POST /auth/reset-password
+[Hono] Registering DELETE /forum/comments/:id
+[Hono] Registering GET /quizzes/:lessonId
+[Hono] Registering POST /quizzes/:lessonId
+[Hono] Registering DELETE /quizzes/:lessonId
+[Hono] Registering POST /auth/verify-email
+[Hono] Registering POST /auth/register
+[Hono] Registering DELETE /sections/:id
+[Hono] Registering POST /ai-assistant
+[Hono] Registering GET /lessons/:id
+[Hono] Registering PUT /lessons/:id
+[Hono] Registering DELETE /lessons/:id
+[Hono] Registering POST /users/verify
+[Hono] Registering POST /users/grade
+[Hono] Registering POST /auth/login
+[Hono] Registering GET /auth/token
+[Hono] Registering POST /forum/init
+[Hono] Registering GET /forum/:id
+[Hono] Registering POST /forum/:id
+[Hono] Registering DELETE /forum/:id
+[Hono] Registering GET /honor-roll
+[Hono] Registering DELETE /users/:id
+[Hono] Registering GET /advanced
+[Hono] Registering POST /advanced
+[Hono] Registering DELETE /advanced
+[Hono] Registering GET /progress
+[Hono] Registering POST /progress
+[Hono] Registering GET /sections
+[Hono] Registering POST /sections
+[Hono] Registering GET /settings
+[Hono] Registering POST /settings
+[Hono] Registering GET /students
+[Hono] Registering GET /lessons
+[Hono] Registering POST /lessons
+[Hono] Registering POST /upload
+[Hono] Registering GET /forum
+[Hono] Registering POST /forum
+[Hono] Registering DELETE /forum
+[Hono] Registering GET /users
+[Hono] Registering POST /users
+🚧 Dev server started
+[2m11:16:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/DELL/Desktop/anything/apps/web/src/app/api/utils/sql.js[22m
+[2m11:16:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mC:/Users/DELL/Desktop/anything/apps/web/src/app/api/utils/sql.js[22m
+[2m11:16:19 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/app/api/utils/sql.js[22m
+[2m11:16:19 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/api/utils/sql.js[22m
+[Hono] Registering POST /auth/confirm-supabase-email
+[Hono] Registering POST /auth/request-password-reset
+[Hono] Registering GET /auth/expo-web-success
+[Hono] Registering POST /auth/reset-password
+[Hono] Registering DELETE /forum/comments/:id
+[Hono] Registering GET /quizzes/:lessonId
+[Hono] Registering POST /quizzes/:lessonId
+[Hono] Registering DELETE /quizzes/:lessonId
+[Hono] Registering POST /auth/verify-email
+[Hono] Registering POST /auth/register
+[Hono] Registering DELETE /sections/:id
+[Hono] Registering POST /ai-assistant
+[Hono] Registering GET /lessons/:id
+[Hono] Registering PUT /lessons/:id
+[Hono] Registering DELETE /lessons/:id
+[Hono] Registering POST /users/verify
+[Hono] Registering POST /users/grade
+[Hono] Registering POST /auth/login
+[Hono] Registering GET /auth/token
+[Hono] Registering POST /forum/init
+[Hono] Registering GET /forum/:id
+[Hono] Registering POST /forum/:id
+[Hono] Registering DELETE /forum/:id
+[Hono] Registering GET /honor-roll
+[Hono] Registering DELETE /users/:id
+[Hono] Registering GET /advanced
+[Hono] Registering POST /advanced
+[Hono] Registering DELETE /advanced
+[Hono] Registering GET /progress
+[Hono] Registering POST /progress
+[Hono] Registering GET /sections
+[Hono] Registering POST /sections
+[Hono] Registering GET /settings
+[Hono] Registering POST /settings
+[Hono] Registering GET /students
+[Hono] Registering GET /lessons
+[Hono] Registering POST /lessons
+[Hono] Registering POST /upload
+[Hono] Registering GET /forum
+[Hono] Registering POST /forum
+[Hono] Registering DELETE /forum
+[Hono] Registering GET /users
+[Hono] Registering POST /users
+🚧 Dev server started
+[2m11:16:24 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m11:16:24 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:16:25 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m11:16:25 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:16:25 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css, /src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:16:25 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/admin/page.jsx[22m
+[2m11:16:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m11:16:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:16:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m11:16:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:16:29 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css, /src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:16:29 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/admin/page.jsx[22m
+🚧 Dev server started
+🚧 Dev server started
+[2m11:16:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m11:16:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:16:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m11:16:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:16:43 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css, /src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:16:43 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/admin/page.jsx[22m
+[2m11:16:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m11:16:47 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+🚧 Dev server started
+[2m11:16:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m11:16:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:16:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css, /src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:16:52 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/admin/page.jsx[22m
+[2m11:16:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx, /src/app/global.css[22m
+[2m11:16:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx?noLayout.jsx[22m
+🚧 Dev server started
+[2m11:16:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx, /src/app/global.css[22m
+[2m11:16:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx?noLayout.jsx[22m
+[2m11:16:55 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx, /src/app/global.css, /src/app/dashboard/page.jsx?noLayout.jsx[22m
+[2m11:16:55 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/dashboard/page.jsx[22m
+🚧 Dev server started
+[2m11:18:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/Forum.jsx, /src/app/global.css[22m
+[2m11:18:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/Forum.jsx, /src/app/global.css[22m
+[2m11:18:37 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/Forum.jsx, /src/app/global.css[22m
+[2m11:18:37 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/dashboard/Forum.jsx[22m
+[2m11:18:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx, /src/app/global.css[22m
+[2m11:18:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx?noLayout.jsx[22m
+[2m11:18:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx, /src/app/global.css[22m
+[2m11:18:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx?noLayout.jsx[22m
+[2m11:18:39 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx, /src/app/global.css, /src/app/dashboard/page.jsx?noLayout.jsx[22m
+[2m11:18:39 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/dashboard/page.jsx[22m
+[2m11:18:45 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx, /src/app/global.css[22m
+[2m11:18:45 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx?noLayout.jsx[22m
+[2m11:18:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx, /src/app/global.css[22m
+[2m11:18:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx?noLayout.jsx[22m
+[2m11:18:46 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/dashboard/page.jsx, /src/app/global.css, /src/app/dashboard/page.jsx?noLayout.jsx[22m
+[2m11:18:46 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/dashboard/page.jsx[22m
+[2m11:18:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m11:18:52 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:18:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css[22m
+[2m11:18:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:18:53 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/admin/page.jsx, /src/app/global.css, /src/app/admin/page.jsx?noLayout.jsx[22m
+[2m11:18:53 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/admin/page.jsx[22m
+[2m11:18:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/page.jsx, /src/app/global.css[22m
+[2m11:18:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/page.jsx?noLayout.jsx[22m
+[2m11:18:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/page.jsx, /src/app/global.css[22m
+[2m11:18:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/page.jsx?noLayout.jsx[22m
+[2m11:18:57 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/page.jsx, /src/app/global.css, /src/app/page.jsx?noLayout.jsx[22m
+[2m11:18:57 PM[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/app/page.jsx[22m
+🚧 Dev server started
+[vite] Detected change in .env. Exiting for restart...
